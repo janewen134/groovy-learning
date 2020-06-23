@@ -16,3 +16,9 @@ def method2 (closure) {
 method2({
     val->println "my name is ${val}"
 })
+
+def method3 = {
+    param ->
+        println(param)
+}
+method3(12345)

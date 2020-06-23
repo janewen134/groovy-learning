@@ -19,4 +19,4 @@ gradle-app.setting
 # MacOs
 .DS_Store
 # Java
-*.class
+.class
