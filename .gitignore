@@ -17,4 +17,4 @@ gradle-app.setting
 # IDEA
 .idea
 # MacOs
-.Ds_Store
+.DS_Store
