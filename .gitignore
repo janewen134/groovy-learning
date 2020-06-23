@@ -18,3 +18,5 @@ gradle-app.setting
 .idea
 # MacOs
 .DS_Store
+# Java
+*.class
